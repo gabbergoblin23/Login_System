@@ -142,3 +142,5 @@ user_login()
 
 
 print('Updated to GitHub')
+
+print('Test commit')
